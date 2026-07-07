@@ -1,0 +1,122 @@
+original_dataset,f1.nanmean,n2.nanmean,t1
+Absenteeism_at_work,0.66,0.14,0.27
+Acoustic Features,0.87,0.43,0.94
+Acute-urinary,0.76,0.01,0.04
+Algerian_forest_fires_dataset_UPDATE,0.22,0.06,0.09
+Annealing,0.73,0.06,0.1
+Autism-Adult-Data,0.82,0.14,0.13
+BankNote_Authentication,0.82,0.12,0.05
+Customer Churn,0.87,0.16,0.16
+Dry_Bean_Dataset,0.31,0.25333333333333335,0.17666666666666667
+EEG_Eye_State_Classification,0.99,0.41,0.71
+German Credit Data,0.98,0.28,0.59
+Indian Liver Patient Dataset (ILPD),0.93,0.23,0.47
+Iris,0.3,0.2,0.13
+Movie_classification,1.0,0.49,0.93
+NPHA-doctor-visits,0.99,0.26,0.44
+ObesityDataSet_raw_and_data_sinthetic,0.82,0.3,0.46
+Qualitative_Bankruptcy,0.88,0.11,0.1
+Raisin_Dataset,0.64,0.34,0.36
+Spam,0.94,0.34,0.39
+Thyroid_Diff,0.83,0.11,0.16
+Wholesale customers data,0.99,0.15,0.38
+abalone,0.505,0.23,0.475
+acute-inflammation,0.76,0.01,0.04
+auction,0.97,0.19,0.29
+audiology,0.56,0.03,0.12
+austrCredit ,0.89,0.4,0.42
+austrlian statelog,0.89,0.4,0.42
+austrlian2,0.89,0.4,0.42
+balance-scaledata,0.88,0.24,0.24
+ballons,0.78,0.27,0.5
+bankruptcy,0.84,0.24,0.47
+braest-cancer wincosin,0.68,0.36,0.29
+breast_cancer,0.68,0.36,0.29
+bridges1,0.57,0.05,0.19
+bridges2,0.61,0.05,0.18
+car_evaluation,0.9,0.18,0.35
+chess,0.98,0.36,0.41
+cirrhosis,0.87,0.22,0.5
+cmc,0.97,0.52,0.71
+connect4,0.9957142857142857,0.6892857142857143,0.7878571428571428
+csv_result-MagicTelescope,0.985,0.71,0.81
+csv_result-ThoraricSurgery,0.99,0.17,0.23
+csv_result-caesarian,0.96,0.5,0.56
+csv_result-climate,0.95,0.22,0.48
+csv_result-column_2C_weka,0.84,0.21,0.32
+csv_result-column_3C_weka,0.63,0.18,0.32
+csv_result-phpV5QYya,0.94,0.3,0.33
+cylinder_bands,0.91,0.2,0.39
+dataR2,0.95,0.46,0.88
+dermatology,0.45,0.1,0.11
+diabetes,0.94,0.45,0.7
+diabetes_data_upload,0.88,0.08,0.15
+dressDataSet,1.0,0.5,0.85
+ecoli,0.44,0.06,0.15
+electrical,0.92,0.43,0.73
+electricity,0.898,0.36,0.44800000000000006
+faults,0.97,0.3,0.43
+fertility,0.97,0.16,0.16
+flags,0.87,0.2,0.51
+forestType,0.56,0.36,0.38
+glass,0.65,0.12,0.25
+haberman,0.97,0.19,0.31
+hapetitis,0.91,0.18,0.36
+hayes-roth,0.88,0.39,0.64
+hcvdat0,0.69,0.08,0.14
+heart,0.9,0.0,0.17
+heart_failure_clinical_records_dataset,0.95,0.25,0.51
+horse-ecolic surgical,0.96,0.42,0.81
+house_voting,0.77,0.23,0.18
+imageSegmentation,0.45,0.34,0.45
+indian liver,0.93,0.23,0.47
+indian_liver_patient,0.93,0.23,0.47
+ionospere,0.81,0.14,0.21
+iymphography,0.49,0.15,0.26
+lenses,0.59,0.12,0.18
+librasMove,0.61,0.31,0.56
+lunCancer,0.82,0.26,0.58
+mammographic,0.82,0.27,0.25
+meta-data,0.99,0.99,0.8
+miceproteinNuclear,0.74,0.26,0.32
+molecular,0.97,0.36,0.82
+monksTest1,0.97,0.41,0.63
+monksTest2,1.0,0.23,0.44
+monksTrain1,0.95,0.43,0.56
+mushroom,0.91,0.09,0.03
+non-verbal tourist data,0.63,0.08,0.23
+ozonedet,0.95,0.23,0.5
+pageBlock,0.7533333333333333,0.3833333333333333,0.37333333333333335
+parkinsons,0.78,0.15,0.22
+penReco,0.47,0.28,0.22
+phone,0.95,0.51,0.99
+planningRelax,1.0,0.23,0.63
+pop_failure,0.96,0.22,0.5
+postOpertaivePatient,0.66,0.12,0.19
+risk_factors_cervical_cancer,0.95,0.09,0.09
+seeds,0.34,0.3,0.19
+shuttle,0.8849999999999999,0.61125,0.5958333333333333
+sobar-72,0.83,0.19,0.32
+somervilehappy,0.96,0.43,0.48
+soyabean-large,0.17,0.06,0.14
+spec-heart,0.93,0.48,0.97
+sponge,0.8,0.09,0.09
+statlog-austr,0.89,0.4,0.42
+statlog-german,0.98,0.28,0.59
+statlog-heart,0.88,0.41,0.5
+statlog-heart2,0.88,0.41,0.5
+statloglandsat,0.34,0.32,0.49
+studenperf,0.75,0.25,0.52
+student-dropout,0.96,0.42,0.81
+teachingassper,0.95,0.3,0.57
+thyroid,0.34,0.1,0.06
+tic-toe,0.99,0.49,0.56
+transfusion,0.94,0.18,0.23
+turkiye-student-evaluation_R_Specific,0.98,0.32,0.56
+vehicles,0.86,0.44,0.72
+waveform,0.75,0.47,0.99
+waveformDG,0.87,0.49,1.0
+wine,0.54,0.35,0.39
+wirelessloca,0.4,0.29,0.15
+yeast,0.6,0.18,0.46
+zoo,0.39,0.01,0.05
