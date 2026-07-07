@@ -1,0 +1,121 @@
+original_dataset,f1.nanmean,n2.nanmean,t1,Maxalg
+abalone,0.4036,0.2323,0.4588,GBC
+Absenteeism_at_work,0.5904,0.1414,0.2474,GBC
+Acoustic Features,0.8434,0.4343,0.9381,RF
+acute-inflammation,0.7108,0.0101,0.0103,RF
+Acute-urinary,0.7108,0.0101,0.0103,RF
+Algerian_forest_fires_dataset_UPDATE,0.0602,0.0606,0.0619,GBC
+Annealing,0.6747,0.0606,0.0722,GBC
+auction,0.9639,0.1919,0.268,GBC
+audiology,0.4699,0.0303,0.0928,GBC
+austrCredit ,0.8675,0.404,0.4021,RF
+austrlian statelog,0.8675,0.404,0.4021,RF
+austrlian2,0.8675,0.404,0.4021,RF
+Autism-Adult-Data,0.7831,0.1414,0.1031,RF
+balance-scaledata,0.8554,0.2424,0.2165,GBC
+ballons,0.7349,0.2727,0.4845,RF
+BankNote_Authentication,0.7831,0.1212,0.0206,GBC
+bankruptcy,0.8072,0.2424,0.4536,GBC
+braest-cancer wincosin,0.6145,0.3636,0.268,GBC
+breast_cancer,0.6145,0.3636,0.268,GBC
+bridges1,0.4819,0.0505,0.1649,GBC
+bridges2,0.5301,0.0505,0.1546,GBC
+car_evaluation,0.8795,0.1818,0.3299,GBC
+chess,0.9759,0.3636,0.3918,GBC
+cirrhosis,0.8434,0.2222,0.4845,GBC
+cmc,0.9639,0.5253,0.701,GBC
+csv_result-caesarian,0.9518,0.5051,0.5464,GBC
+csv_result-climate,0.9398,0.2222,0.4639,GBC
+csv_result-column_2C_weka,0.8072,0.2121,0.299,GBC
+csv_result-column_3C_weka,0.5542,0.1818,0.299,GBC
+csv_result-MagicTelescope,0.9819,0.7172,0.8041,GBC
+csv_result-phpV5QYya,0.9277,0.303,0.3093,GBC
+csv_result-ThoraricSurgery,0.988,0.1717,0.2062,GBC
+Customer Churn,0.8434,0.1616,0.134,GBC
+cylinder_bands,0.8916,0.202,0.3711,GBC
+dataR2,0.9398,0.4646,0.8763,GBC
+dermatology,0.3373,0.101,0.0825,GBC
+diabetes,0.9277,0.4545,0.6907,GBC
+diabetes_data_upload,0.8554,0.0808,0.1237,GBC
+dressDataSet,1,0.5051,0.8454,RF
+Dry_Bean_Dataset,0.1687,0.2559,0.1512,GBC
+ecoli,0.3253,0.0606,0.1237,GBC
+EEG_Eye_State_Classification,0.988,0.4141,0.701,RF
+electrical,0.9036,0.4343,0.7216,RF
+electricity,0.8771,0.3636,0.4309,RF
+faults,0.9639,0.303,0.4124,GBC
+fertility,0.9639,0.1616,0.134,GBC
+flags,0.8434,0.202,0.4948,GBC
+forestType,0.4699,0.3636,0.3608,RF
+German Credit Data,0.9759,0.2828,0.5773,GBC
+glass,0.5783,0.1212,0.2268,GBC
+haberman,0.9639,0.1919,0.2887,RF
+hapetitis,0.8916,0.1818,0.3402,GBC
+hayes-roth,0.8554,0.3939,0.6289,GBC
+hcvdat0,0.6265,0.0808,0.1134,GBC
+heart,0.8795,0,0.1443,GBC
+heart_failure_clinical_records_dataset,0.9398,0.2525,0.4948,RF
+horse-ecolic surgical,0.9518,0.4242,0.8041,RF
+house_voting,0.7229,0.2323,0.1546,GBC
+imageSegmentation,0.3373,0.3434,0.433,GBC
+indian liver,0.9157,0.2323,0.4536,GBC
+Indian Liver Patient Dataset (ILPD),0.9157,0.2323,0.4536,GBC
+indian_liver_patient,0.9157,0.2323,0.4536,GBC
+ionospere,0.7711,0.1414,0.1856,GBC
+Iris,0.1566,0.202,0.1031,GBC
+iymphography,0.3855,0.1515,0.2371,RF
+lenses,0.506,0.1212,0.1546,RF
+librasMove,0.5301,0.3131,0.5464,GBC
+lunCancer,0.7831,0.2626,0.567,GBC
+mammographic,0.7831,0.2727,0.2268,GBC
+meta-data,0.988,1,0.7938,RF
+miceproteinNuclear,0.6867,0.2626,0.299,RF
+molecular,0.9639,0.3636,0.8144,GBC
+monksTest1,0.9639,0.4141,0.6186,RF
+monksTest2,1,0.2323,0.4227,GBC
+monksTrain1,0.9398,0.4343,0.5464,RF
+Movie_classification,1,0.4949,0.9278,RF
+mushroom,0.8916,0.0909,0,GBC
+non-verbal tourist data,0.5542,0.0808,0.2062,GBC
+NPHA-doctor-visits,0.988,0.2626,0.4227,GBC
+ObesityDataSet_raw_and_data_sinthetic,0.7831,0.303,0.4433,GBC
+ozonedet,0.9398,0.2323,0.4845,GBC
+pageBlock,0.7028,0.3872,0.354,GBC
+parkinsons,0.7349,0.1515,0.1959,GBC
+penReco,0.3614,0.2828,0.1959,GBC
+phone,0.9398,0.5152,0.9897,GBC
+planningRelax,1,0.2323,0.6186,GBC
+pop_failure,0.9518,0.2222,0.4845,GBC
+postOpertaivePatient,0.5904,0.1212,0.1649,GBC
+Qualitative_Bankruptcy,0.8554,0.1111,0.0722,GBC
+Raisin_Dataset,0.5663,0.3434,0.3402,RF
+risk_factors_cervical_cancer,0.9398,0.0909,0.0619,GBC
+seeds,0.2048,0.303,0.1649,GBC
+sobar-72,0.7952,0.1919,0.299,GBC
+somervilehappy,0.9518,0.4343,0.4639,RF
+soyabean-large,0,0.0606,0.1134,GBC
+Spam,0.9277,0.3434,0.3711,GBC
+spec-heart,0.9157,0.4848,0.9691,RF
+sponge,0.759,0.0909,0.0619,RF
+statlog-austr,0.8675,0.404,0.4021,RF
+statlog-german,0.9759,0.2828,0.5773,GBC
+statlog-heart,0.8554,0.4141,0.4845,RF
+statlog-heart2,0.8554,0.4141,0.4845,RF
+statloglandsat,0.2048,0.3232,0.4742,GBC
+studenperf,0.6988,0.2525,0.5052,GBC
+student-dropout,0.9518,0.4242,0.8041,GBC
+teachingassper,0.9398,0.303,0.5567,GBC
+thyroid,0.2048,0.101,0.0309,GBC
+Thyroid_Diff,0.7952,0.1111,0.134,RF
+tic-toe,0.988,0.4949,0.5464,GBC
+transfusion,0.9277,0.1818,0.2062,GBC
+turkiye-student-evaluation_R_Specific,0.9759,0.3232,0.5464,GBC
+vehicles,0.8313,0.4444,0.7113,GBC
+waveform,0.6988,0.4747,0.9897,GBC
+waveformDG,0.8434,0.4949,1,GBC
+Wholesale customers data,0.988,0.1515,0.3608,GBC
+Wholesale customers data.csv,0.99,0.15,0.38,GBC
+wine,0.4458,0.3535,0.3711,RF
+wirelessloca,0.2771,0.2929,0.1237,GBC
+yeast,0.5181,0.1818,0.4433,GBC
+zoo,0.2651,0.0101,0.0206,GBC
